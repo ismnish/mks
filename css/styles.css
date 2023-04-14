@@ -1,6 +1,5 @@
 body{
-    /* color:#40514E; */
-    color: yellow;
+    color:#40514E;
     margin:0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -15,8 +14,7 @@ h1{
 
 }
 h2{
-    /* color:#66BFBF; */
-    color:red;
+    color:#66BFBF;
     font-size:2rem;
     font-family: 'Montserrat', sans-serif;
     font-weight:normal;
