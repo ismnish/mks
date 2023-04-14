@@ -15,7 +15,8 @@ h1{
 
 }
 h2{
-    color:#66BFBF;
+    /* color:#66BFBF; */
+    color:red;
     font-size:2rem;
     font-family: 'Montserrat', sans-serif;
     font-weight:normal;
